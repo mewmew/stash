@@ -12763,23 +12763,9 @@
 	{
 		"Date": "2006-06-01T00:00:00Z",
 		"Event": "TED2006",
-		"Title": "Tony Robbins: Why we do what we do",
-		"Duration": 1305000000000,
-		"Download": "http://download.ted.com/talks/TonyRobbins_2006-480p.mp4?apikey=TEDDOWNLOAD"
-	},
-	{
-		"Date": "2006-06-01T00:00:00Z",
-		"Event": "TED2006",
 		"Title": "Al Gore: Averting the climate crisis",
 		"Duration": 977000000000,
 		"Download": "http://download.ted.com/talks/AlGore_2006-480p.mp4?apikey=TEDDOWNLOAD"
-	},
-	{
-		"Date": "2006-06-01T00:00:00Z",
-		"Event": "TED2006",
-		"Title": "David Pogue: Simplicity sells",
-		"Duration": 1286000000000,
-		"Download": "http://download.ted.com/talks/DavidPogue_2006-480p.mp4?apikey=TEDDOWNLOAD"
 	},
 	{
 		"Date": "2006-06-01T00:00:00Z",
