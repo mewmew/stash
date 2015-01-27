@@ -15,13 +15,6 @@
 	},
 	{
 		"Date": "2015-01-01T00:00:00Z",
-		"Event": "TED@State Street London",
-		"Title": "Morgana Bailey: The danger of hiding who you are",
-		"Duration": 622000000000,
-		"Download": "http://download.ted.com/talks/MorganaBailey_2014S-480p.mp4?apikey=TEDDOWNLOAD"
-	},
-	{
-		"Date": "2015-01-01T00:00:00Z",
 		"Event": "TEDGlobal 2014",
 		"Title": "Joe Madiath: Better toilets, better life",
 		"Duration": 727000000000,

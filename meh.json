@@ -1,5 +1,12 @@
 [
 	{
+		"Date": "2015-01-01T00:00:00Z",
+		"Event": "TED@State Street London",
+		"Title": "Morgana Bailey: The danger of hiding who you are",
+		"Duration": 622000000000,
+		"Download": "http://download.ted.com/talks/MorganaBailey_2014S-480p.mp4?apikey=TEDDOWNLOAD"
+	},
+	{
 		"Date": "2006-06-01T00:00:00Z",
 		"Event": "TED2006",
 		"Title": "Al Gore: Averting the climate crisis",
