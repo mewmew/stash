@@ -4,13 +4,15 @@
 		"Event": "TED2006",
 		"Title": "Hans Rosling: The best stats you've ever seen",
 		"Duration": 1190000000000,
-		"Download": "http://download.ted.com/talks/HansRosling_2006-480p.mp4?apikey=TEDDOWNLOAD"
+		"Download": "http://download.ted.com/talks/HansRosling_2006-480p.mp4?apikey=TEDDOWNLOAD",
+		"Comment": "We (western countries) and them (third world countries) is longer valid based on Hans Rosling's dataset."
 	},
 	{
 		"Date": "2006-06-01T00:00:00Z",
 		"Event": "TED2006",
 		"Title": "Ken Robinson: How schools kill creativity",
 		"Duration": 1164000000000,
-		"Download": "http://download.ted.com/talks/SirKenRobinson_2006-480p.mp4?apikey=TEDDOWNLOAD"
+		"Download": "http://download.ted.com/talks/SirKenRobinson_2006-480p.mp4?apikey=TEDDOWNLOAD",
+		"Comment": "Value creativity in the same way as literacy. Everyone is born with creativity but most grow out of it. In Ken Robinson's view this process is facilitated by the current educational system."
 	}
 ]
