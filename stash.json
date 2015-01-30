@@ -12707,13 +12707,6 @@
 	{
 		"Date": "2006-07-01T00:00:00Z",
 		"Event": "TED2006",
-		"Title": "Cameron Sinclair: My wish: A call for open-source architecture",
-		"Duration": 1414000000000,
-		"Download": "http://download.ted.com/talks/CameronSinclair_2006-480p.mp4?apikey=TEDDOWNLOAD"
-	},
-	{
-		"Date": "2006-07-01T00:00:00Z",
-		"Event": "TED2006",
 		"Title": "Jehane Noujaim: My wish: A global day of film",
 		"Duration": 1538000000000,
 		"Download": "http://download.ted.com/talks/JehaneNoujaim_2006-480p.mp4?apikey=TEDDOWNLOAD"
