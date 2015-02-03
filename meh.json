@@ -1,5 +1,12 @@
 [
 	{
+		"Date": "2006-07-01T00:00:00Z",
+		"Event": "TED2006",
+		"Title": "Dan Dennett: Let's teach religion -- all religion -- in schools",
+		"Duration": 1485000000000,
+		"Download": "http://download.ted.com/talks/DanDennett_2006-480p.mp4?apikey=TEDDOWNLOAD"
+	},
+	{
 		"Date": "2015-01-01T00:00:00Z",
 		"Event": "TEDGlobal 2014",
 		"Title": "Severine Autesserre: To solve mass violence, look to locals",
