@@ -1,5 +1,21 @@
 [
 	{
+		"Date": "2015-02-01T00:00:00Z",
+		"Event": "TEDxPlaceDesNations",
+		"Title": "Bruce Aylward: Humanity vs. Ebola. How we could win a terrifying war",
+		"Duration": 1151000000000,
+		"Download": "http://download.ted.com/talks/BruceAylward_2014X-480p.mp4?apikey=TEDDOWNLOAD",
+		"Comment": "To beat ebola each community must understand how it spreads. Particularly important as holding a child or participating in a traditional funeral may spread the decease; both deep rooted practices of caring for our beloved ones."
+	},
+	{
+		"Date": "2015-01-01T00:00:00Z",
+		"Event": "TEDGlobal 2014",
+		"Title": "Bassam Tariq: The beauty and diversity of Muslim life",
+		"Duration": 278000000000,
+		"Download": "http://download.ted.com/talks/BassamTariq_2014U-480p.mp4?apikey=TEDDOWNLOAD",
+		"Comment": "Empathy is powerful against prejudice, as also recognized by the 'fifty shades of gay' TED-talk."
+	},
+	{
 		"Date": "2006-07-01T00:00:00Z",
 		"Event": "TED2006",
 		"Title": "Dan Dennett: Let's teach religion -- all religion -- in schools",
@@ -11,7 +27,9 @@
 		"Event": "TEDGlobal 2014",
 		"Title": "Severine Autesserre: To solve mass violence, look to locals",
 		"Duration": 961000000000,
-		"Download": "http://download.ted.com/talks/SeverineAutesserre_2014G-480p.mp4?apikey=TEDDOWNLOAD"
+		"Download": "http://download.ted.com/talks/SeverineAutesserre_2014G-480p.mp4?apikey=TEDDOWNLOAD",
+		"Comment": "Grass root peace movements have a large impact and can help mitigate problems that are out of reach from international policies. One such example is given in another T
+ED-talk; 'if Christmas can come to you [guerilla in the jungle], you can come home to it'"
 	},
 	{
 		"Date": "2015-01-01T00:00:00Z",
