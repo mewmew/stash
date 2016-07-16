@@ -18,6 +18,14 @@
 	{
 		"Date": "2006-07-01T00:00:00Z",
 		"Event": "TED2006",
+		"Title": "Julia Sweeney: Letting go of God",
+		"Duration": 992000000000,
+		"Download": "http://download.ted.com/talks/JuliaSweeney_2006-480p.mp4?apikey=TEDDOWNLOAD",
+		"Comment": "Do you feel God's love? vs Do you believe in God's love?"
+	},
+	{
+		"Date": "2006-07-01T00:00:00Z",
+		"Event": "TED2006",
 		"Title": "Dan Dennett: Let's teach religion -- all religion -- in schools",
 		"Duration": 1485000000000,
 		"Download": "http://download.ted.com/talks/DanDennett_2006-480p.mp4?apikey=TEDDOWNLOAD",
