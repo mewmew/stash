@@ -1,6 +1,6 @@
 # My Secret Stash
 
-As you've already come this far, I might as well share with you a glimpse into my addiction. For as long as I can remember, I've been captivated by people who are passionate about their field of interest, whatever it may be. Listening to someone share a part of themselves, what makes them tick and ignites the spark in their eyes, is intellectually seductive and emotionally overwhelming.
+As you've already come this far, I might as well share with you a glimpse into my addiction. For as long as I can remember, I've been captivated by people who are passionate about their field of interest, whatever it may be. Listening to someone share a part of themselves -- what makes them tick and ignites a spark in their eyes -- is intellectually seductive and emotionally overwhelming.
 
 You know the spark I'm talking about, the spark of craziness and bewildered emotions. The spark which makes you feel alive, feel like anything is possible. The spark which differentiate the living from the walking dead.
 
@@ -9,7 +9,7 @@ While I cannot and would not share some of the private discussions I've had with
 The talks are roughly categorized as follows,
 
 * [Awareness](awareness.json): talks presenting, at times quite rough, topics which increase awareness of important issues in the world.
-* [Breakthrough](breakthrough.json): technological breakthrough.
+* [Breakthrough](breakthrough.json): technological breakthroughs.
 * [Change](change.json): how to bring about changes in the world.
 * [Creative](creative.json): unconstrained creativity.
 * [Fav](fav.json): favourite talks.
